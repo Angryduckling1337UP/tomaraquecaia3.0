@@ -10,7 +10,7 @@ Enviamos cabeçalhos periodicamente para manter as conexões abertas.
 
 Nunca fechamos a conexão, a menos que o servidor o faça. Se o servidor fechar uma conexão, criamos uma nova e continuamos fazendo a mesma coisa.
 
-Isso esgota o pool de threads do servidor e o servidor não consegue responder a outras pessoas.
+Isso esgota o pool de threads do servidor e o servidor não consegue responder outras pessoas.
 
 
 
