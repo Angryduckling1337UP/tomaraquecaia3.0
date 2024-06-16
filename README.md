@@ -42,8 +42,12 @@ Instalações necessária para o funcionamento :
  -termcolor import colored
 
  Instalação:
-
+ 
 git clone https://github.com/Angryduckling1337UP/tomaraquecaia3.0.git
+
+Caso for executar no linux :
+
+dos2unix tomaraquecaia3.0.py
  
 
 
