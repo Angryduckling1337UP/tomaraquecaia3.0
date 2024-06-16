@@ -42,6 +42,8 @@ Instalações necessária para o funcionamento :
  -termcolor import colored
 
  Instalção:
+
+git clone https://github.com/Angryduckling1337UP/tomaraquecaia3.0.git
  
 
 
